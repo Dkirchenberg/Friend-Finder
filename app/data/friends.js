@@ -105,7 +105,7 @@ var friendsArray = [{
     ]
 },{
     "name": "David",
-    "photo": "http://www.bangaloremirror.com/photo/27168334.cms",
+    "photo": "https://images.pexels.com/photos/126407/pexels-photo-126407.jpeg?auto=compress&cs=tinysrgb&h=350",
     "scores": [
         3,
         2,
